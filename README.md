@@ -1,8 +1,8 @@
 # updates_my_localhost_by_NTP
-1) Данный сценарий Windows отображает текущее системное время на локальной машине, оценивает точность часов локальной машины относительно сервера ntp.time.in.ua.   
+1) This Windows script shows the actual system time on the local machine, assesses the accuracy of the local machine clock in relation to the server ntp.time.in.ua.   
 
-2) Выполняет синхронизацию системного времени по NTP(ntp.time.in.ua.)
+2) Performs synchronization of system time by NTP(ntp.time.in.ua.)
 
-3) Выполненная синхронизация по NTP с сервера ntp.time.in.ua. Соответствует часовому поясу EET - Eastern European Time(UTC+2)
+3) Performs synchronization by NTP from the server ntp.time.in.ua. Corresponds to the time zone EET - Eastern European Time(UTC+2).
 
-4) Для выполнения синхронизации системного времени по NTP, данный сценарий Windows("NTP.cmd") требуется запустить от имени администратора!
+4) To perform synchronization of system time by NTP, this script Windows ("NTP.cmd") must be run as an administrator!
